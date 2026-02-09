@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "When the Day Comes",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2026-02-09T09:59:03.054754Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "When the Day Comes",
+      "artist": "Jimkata",
+      "has_synced": false,
+      "path": "select/01_When_the_Day_Comes_Jimkata.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "When the Day Comes",
+      "artist": "Eric Krasno",
+      "has_synced": true,
+      "path": "select/02_When_the_Day_Comes_Eric_Krasno.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "When the Day Comes",
+      "artist": "Nico & Vinz",
+      "has_synced": true,
+      "path": "select/03_When_the_Day_Comes_Nico_&_Vinz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "When The Day Comes",
+      "artist": "Nico & Vinz",
+      "has_synced": true,
+      "path": "select/04_When_The_Day_Comes_Nico_&_Vinz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "When the Day Comes",
+      "artist": "Nico & Vinz",
+      "has_synced": true,
+      "path": "select/05_When_the_Day_Comes_Nico_&_Vinz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "When the Day Comes",
+      "artist": "Nico & Vinz",
+      "has_synced": true,
+      "path": "select/06_When_the_Day_Comes_Nico_&_Vinz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "When the Day Comes",
+      "artist": "TOMORROW X TOGETHER OFFICIAL",
+      "has_synced": true,
+      "path": "select/07_When_the_Day_Comes_TOMORROW_X_TOGETHER_OFFICIAL.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "When The Day Comes To An End",
+      "artist": "Cuco",
+      "has_synced": true,
+      "path": "select/08_When_The_Day_Comes_To_An_End_Cuco.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "When the Day Comes",
+      "artist": "The Bats",
+      "has_synced": false,
+      "path": "select/09_When_the_Day_Comes_The_Bats.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "When the Day Comes",
+      "artist": "Bats, The",
+      "has_synced": false,
+      "path": "select/10_When_the_Day_Comes_Bats,_The.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "When the Day Comes",
+      "artist": "Krasno, Eric",
+      "has_synced": true,
+      "path": "select/11_When_the_Day_Comes_Krasno,_Eric.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When the Day Comes",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/12_When_the_Day_Comes_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nico & Vinz - When The Day Comes [Official Music Video]",
+      "artist": "Nico & Vinz",
+      "has_synced": true,
+      "path": "select/13_Nico_&_Vinz_-_When_The_Day_Comes_[Official_Music_Video]_Nico_&_Vinz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "When The Day Comes To An End - DJ Sliink remix",
+      "artist": "Cuco",
+      "has_synced": false,
+      "path": "select/14_When_The_Day_Comes_To_An_End_-_DJ_Sliink_remix_Cuco.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "When the Day Comes",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_When_the_Day_Comes_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
